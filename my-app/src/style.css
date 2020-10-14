@@ -1,0 +1,11 @@
+.ui.topmenu.menu {
+  background-color: #a5a5a5;
+  border: 0px;
+  box-shadow: none;
+}
+
+.ui.topmenu.menu .item {
+  color: #f4e8ce;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
